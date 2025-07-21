@@ -26,8 +26,10 @@ When a victim enters their credentials, you should access the original website a
 
 ### SCREENSHOT 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/aac1ae82-0001-4d76-a767-97817cddafab", width="500", height="500">
-<img src="https://github.com/user-attachments/assets/3413e7ba-12f2-46f6-91b8-f9a703d0921c", width="500", height="500">
+<img src="https://github.com/user-attachments/assets/1d3429d6-b4c0-4db4-b6ce-5a53fac2ed08", width="500", height="500">
+<img src="https://github.com/user-attachments/assets/d664c6c2-c4a5-4ae5-8169-5587aea55c27", width="500", height="500">
+<img src="https://github.com/user-attachments/assets/a7284588-065f-4e4e-8d0d-7ba45329eaee", width="500", height="500">
+<img src="https://github.com/user-attachments/assets/687f0ff9-1c58-4f1d-8415-77ed58fdf403", width="500", height="500">
 </p>
 
 ### HOW TO GET YOUR GMAIL KEY
