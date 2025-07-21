@@ -16,7 +16,6 @@ DEDSEC_TIKTOKVB is purpose-built to simulate spear-phishing attacks targeting Ti
 - **Custom Spear-Phishing Page Creation:** Generates realistic phishing pages using the harvested profile picture and user information to enhance credibility.
 - **Automated Email Delivery:** Includes a built-in emailer to automatically send the phishing page to the target's email address, simulating a real spear-phishing attack.
 - **OTP Simulation:** Supports scenarios where the phishing page prompts for OTP (One-Time Password), capturing both credentials and OTP codes for educational simulation.
-- **Realistic Phishing Pages:** Accurately replicates TikTok's login interface to increase the realism of the phishing simulation.
 - **Verified Badge Social Engineering:** Uses the bait of offering a TikTok "verified badge" to lure users into providing their login details, making the phishing attempt appear as part of an official verification process.
 
 This tool emphasizes how attackers can leverage publicly available information to craft convincing phishing attempts. It is strictly for ethical and educational use only.
