@@ -69,4 +69,4 @@ If you find my work helpful and want to support me, consider making a donation. 
 ### DISCLAIMER
                                        TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 
-The use of the DEDSEC_PHISH is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. 
+The use of the DEDSEC_TIKTOKVB is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. 
